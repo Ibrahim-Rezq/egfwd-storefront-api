@@ -279,7 +279,9 @@ The base application structure was provided by **Udacity** as part of the Full S
 
 ## 📄 License
 
-This project is licensed under the ISC License.
+Copyright © 2012 - 2020, Udacity, Inc.
+This project contains educational content provided by Udacity and is subject to the Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License (CC BY-NC-ND 3.0).
+
 
 ---
 
